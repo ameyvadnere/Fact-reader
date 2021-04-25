@@ -14,6 +14,8 @@ GTTS module.
 * [keyboard](https://pypi.org/project/keyboard/) :  `pip3 install keyboard`
 * Internet connectivity (for gTTS)
 
+Run the installation script install.bat (Windows) or install.sh (Linux)
+
 ## Acknowledgements
 
 gTTS Documentation: https://gtts.readthedocs.io/en/latest/
